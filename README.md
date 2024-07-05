@@ -1,5 +1,7 @@
 # AF-JIRA-INTERMEDIO
 
+## CONTENIDOS
+
 - Especificaciones de Jira Software
 - Proyectos Scrum vs proyectos Kanban
 - Gestión de Proyectos siguiendo un flujo ágil
